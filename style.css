@@ -1,0 +1,38 @@
+* {
+    font-size: 20px;
+}
+
+.row {
+    display: flex;
+    margin:auto;
+}
+
+.col {
+    flex: 1;
+    margin: 20px;
+    background-color: cadetblue;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.col2 {
+    flex: 2;
+    margin: 20px;
+    background-color: cadetblue;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.col3 {
+    flex: 3;
+    margin: 20px;
+    background-color: cadetblue;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
